@@ -1,0 +1,4 @@
+---
+# set_SELINUX_to_disabled/defaults/main.yml
+
+selinux_policy: 'targeted'
