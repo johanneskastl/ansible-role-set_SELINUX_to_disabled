@@ -1,5 +1,6 @@
 galaxy_info:
   role_name: 'set_SELINUX_to_disabled'
+  namespace: 'johanneskastl'
   author: 'Johannes Kastl'
   description: 'Set SELINUX to disabled, reboot the machine and check the status after the reboot.'
   company: 'B1 Systems GmbH'
